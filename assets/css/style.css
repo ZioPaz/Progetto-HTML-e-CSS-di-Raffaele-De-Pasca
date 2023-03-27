@@ -1,0 +1,28 @@
+body{
+    background: #38d39f;
+    font-family: 'Lato', sans-serif;
+    padding:0;
+    margin:0;
+
+}
+.img-profile{
+    border-radius: 20%;
+    height:70%;
+    
+}
+.img-container{
+    display: flex;
+    height: 100vh;
+    align-items: center;
+}
+
+.navbar-nav{
+    display: flex;
+    justify-content: center;
+}
+.carousel{
+    z-index: 2;
+}
+img{
+    height: 100vh;
+}
